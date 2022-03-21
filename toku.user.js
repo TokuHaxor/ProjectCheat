@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name           Sploit
-// @author         The Gaming Gurus
+// @name           Toku
+// @author         SasKraXploit
 // @description    This script is served by the auto updater, do not use it outside of development.
 // @version        1.6.5
 // @license        gpl-3.0
